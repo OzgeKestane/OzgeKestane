@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Özge</h1>
-<h3 align="center">A passionate full-stack developer from Türkiye</h3>
+<h3 align="center">I graduated from Kocaeli University biomedical engineering and I am interested in software development. With my education and experience, I set a goal to specialize in the backend (.Net) field and to further develop myself. With the comprehensive trainings I received from the leading names of the industry and the boot-camp projects I participated in, I think I have the competencies I need to achieve this goal.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgekestane&label=Profile%20views&color=09263e&style=flat" alt="ozgekestane" /> </p>
 
