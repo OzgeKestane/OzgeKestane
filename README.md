@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Özge</h1>
+<h1 align="center">Hi 👋, I'm Ozge</h1>
 <h3 align="center">I graduated from Kocaeli University biomedical engineering and I am interested in software development. With my education and experience, I set a goal to specialize in the backend (.Net) field and to further develop myself. With the comprehensive trainings I received from the leading names of the industry and the boot-camp projects I participated in, I think I have the competencies I need to achieve this goal.
 
 </h3>
